@@ -1,2 +1,2 @@
 # GonzaloAle93.github.io
-Personal website my undergrad code as a math major
+Personal website for my undergrad code as a math major
